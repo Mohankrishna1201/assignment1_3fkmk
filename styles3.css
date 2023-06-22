@@ -1,0 +1,47 @@
+.box{
+    ;
+     margin : auto;
+     margin-top: 100px;
+        width : 400px;
+        
+        border: 1px solid lightgrey;
+        height: 300px;
+       
+        border-radius: 10px;
+    padding:25px 35px;
+    font-family: Arial;
+    
+    
+    
+    }
+    
+   .typo2{
+    font-weight:500;
+   }
+   .typo{
+    font-weight:300;
+    color: grey;
+   }
+   .typo1{
+   font-weight: 600;
+    padding: 10px 0px;
+   
+    color: rgb(31, 31, 218);
+   }
+   .imag{
+    width: 25%;
+   
+    padding: 20px 20px;
+    border-radius: 100px;
+   }
+   .imag1{
+    width: 25%;
+    margin-bottom: 20px;
+    border-radius: 100px;
+   }
+   .f{
+    position: relative;
+    right: 36px;
+    
+    width:469px;
+   }
